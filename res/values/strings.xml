@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CITconnect</string>
+    <string name="action_settings">Settings</string>
+    <string name="student_update">Student Update</string>
+    <string name="button_update">Update Status!</string>
+    <string name="hint">Update status here!</string>
+
+</resources>
