@@ -18,7 +18,7 @@ public class MainActivity extends Activity implements OnClickListener {
 	EditText updateStatus;
 	Twitter	twitter;
 	
-	// This is where the activity starts.
+		// This is where the activity starts.
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
